@@ -1,0 +1,3 @@
+/home/s23380424@unn.global/wworkk/build/CMakeFiles/main.dir
+/home/s23380424@unn.global/wworkk/build/CMakeFiles/edit_cache.dir
+/home/s23380424@unn.global/wworkk/build/CMakeFiles/rebuild_cache.dir
